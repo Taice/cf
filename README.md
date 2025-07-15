@@ -1,7 +1,7 @@
-# cf
-coinflip application but you provide the options
+# CF
+CoinFlip application but you provide the options
 
-## building
+## Building:
 - clone the repo and build using zig
 ```
 git clone https://github.com/taice/cf
@@ -9,6 +9,6 @@ cd cf
 zig build
 ```
 
-## usage
+## Usage:
 - `[binary] <args>`
 - args are separated by ' ' and the result is a random arg
